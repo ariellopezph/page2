@@ -25,8 +25,8 @@ body {
 header {
     
     height: 100vh;
-    /* background-image: linear-gradient(to top, rgba(161, 140, 209, 0.438) 0%, rgba(251, 194, 235, 0.404) 100%), url(../page2/img/background.jpg); */
-    background-image: url(img/background.jpg);
+    background-image: linear-gradient(to top, rgba(161, 140, 209, 0.438) 0%, rgba(251, 194, 235, 0.404) 100%), url(../page2/img/background.jpg);
+    /*background-image: url(img/background.jpg);*/
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
